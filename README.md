@@ -10,13 +10,14 @@ Comecei consertando celulares na minha própria assistência técnica (a T Cell)
 
 ## O que eu uso
 
-- **Linguagens:** Python, JavaScript, HTML, CSS
+- **Linguagens:** Python, JavaScript, TypeScript, HTML, CSS
 - **Web e apps:** React, Streamlit
-- **IA e automação:** Groq, LangChain, n8n, APIs
+- **IA e automação:** OpenAI API, Groq, LangChain, n8n, APIs
 - **Dados e infraestrutura:** Supabase, Docker, GitHub
 
 ## Projetos
 
+- 🎯 [Career Match AI](https://github.com/TaianeR/mathcv) ([ver online](https://mathcv.lovable.app/)): compara seu currículo com uma vaga, mostra o percentual de compatibilidade e gera um currículo pronto para os sistemas de seleção, além da carta de apresentação
 - 🤖 [Nexus IA](https://github.com/TaianeR/nexo-ia): assistente de inteligência artificial com login seguro
 - 💰 [App de controle financeiro](https://github.com/TaianeR/dio-lab-vibe-coding-app-financas): organiza receitas, despesas e saldo
 - 📘 [Manual de Assistência Técnica](https://github.com/TaianeR/TCell-Manual-Assistencia): e-book com os primeiros passos para virar técnico de smartphone
