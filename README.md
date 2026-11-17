@@ -28,12 +28,14 @@ Atualmente, trabalho com desenvolvimento de aplicações, integração de APIs, 
 - Streamlit
 - Node.js
 
-**Inteligência Artificial e Automação**
+Inteligência Artificial e Automação
 - OpenAI API
+- Claude (Anthropic)
 - Groq
 - LangChain
 - n8n
 - Integração de APIs
+- Desenvolvimento de soluções com IA
 
 **Banco de Dados e Infraestrutura**
 - Supabase
