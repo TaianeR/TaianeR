@@ -56,7 +56,7 @@ Plataforma inteligente que analisa a compatibilidade entre currículos e vagas d
 ### 🤖 Nexus IA
 Assistente de inteligência artificial com autenticação, histórico de conversas e integração com serviços de IA.
 
-- [Repositório GitHub](https://github.com/TaianeR/nexo-ia)
+- [Repositório GitHub](https://nexus-ia-bot.streamlit.app)
 
 ### 💰 Aplicativo de Controle Financeiro
 Aplicação para gerenciamento de receitas, despesas e acompanhamento financeiro.
